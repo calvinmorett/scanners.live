@@ -1,2 +1,2 @@
 # scanners.live
-scanners.live: listen to Glens Falls, NY - Indianapolis, IN - Los Angeles, CA - or - San Antonio, TX police scanners
+Scanners.live - Feed for Glens Falls, NY, Indiapolis, IN, San Antonio, TX and Los Angeles, CA.
