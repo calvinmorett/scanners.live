@@ -49,17 +49,18 @@ html {
 }
 html,
 body {
-    color: #fff;
     font-size: 11px;
     line-height: 1;
-    background: #000;
+    color:#fff;
+    background:#000;
 }
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    margin: 2em;
+     margin: 2em;
+     background:#000;
 }
 .wrapper {
     margin: 1em auto;
