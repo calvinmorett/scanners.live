@@ -26,7 +26,7 @@ html,body{
 	font-size:11px;
 	font-family:sans-serif;
 	line-height:1;
-	background:#111;
+	background:#000;
 }
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -136,3 +136,5 @@ h6 {
     margin:0 1.5em 1em;
     pading:0 2rem 1em;
 }
+html,body{background:#000;}
+figure img{width:100%;}
