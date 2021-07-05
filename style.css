@@ -129,6 +129,21 @@ h6 {
     font-style: normal;
     line-height: 1.1;
 }
+.h6, h6 {
+	font-size: 1rem;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	margin-bottom: .5rem;
+	font-weight: 500;
+	line-height: 1.2;
+}
+.small, small {
+	font-size: 80%;
+	font-weight: 400;
+}
+small {
+	font-size: 80%;
+}
 .footerclass{
   position:fixed;
   bottom:1em;
